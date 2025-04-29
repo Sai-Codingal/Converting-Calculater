@@ -1,0 +1,15 @@
+#Dollars{
+    color:green;
+    font-size: large;
+padding: 15px;
+}
+#Rupees{
+    color:purple;
+    font-size: large;
+    padding: 15px;
+}
+#equal{
+    background-color: green;
+    color: :black;
+    grid-column: span 2;
+}
